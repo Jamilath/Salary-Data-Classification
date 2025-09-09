@@ -26,7 +26,7 @@ Achieved ~83% test accuracy and ~0.65 F1-score for >50K class.
 
 How to Run
 
-Clone the repository: git clone https://github.com/SyedaHabeeba/Salary-Data-Classification.git
+Clone the repository: git clone https://github.com/Jamilath/Salary-Data-Classification.git
 Install dependencies: pip install -r requirements.txt
 Run the Jupyter Notebook: jupyter notebook code/salary_svm.ipynb
 Ensure datasets (data/*.csv) are in the correct folder.
