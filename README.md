@@ -58,6 +58,6 @@ Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
 Tools: Jupyter Notebook, Git, GitHub
 
 Contact
-https://www.linkedin.com/in/mohammed-jameel-2866028/
-GitHub: SyedaHabeeba
-LinkedIn: [Your LinkedIn URL]
+
+GitHub: Jamilath
+LinkedIn: [Your LinkedIn URL]](https://www.linkedin.com/in/mohammed-jameel-2866028/)
